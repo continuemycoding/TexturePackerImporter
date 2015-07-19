@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5445fa9c348c15cb7d227b8a0699f859:15f5a8fd929c4d579ac49e923a921d5a:ca02a7e5025dae5db8a587d262bdd981$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="碟片.png" width="1263" height="512">
+    <sprite n="一个蛤蟆四条腿.png" x="2" y="131" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="一分钱.png" x="2" y="258" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="一只哈巴狗.png" x="2" y="385" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="上学歌.png" x="1138" y="2" w="123" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="丢手绢.png" x="128" y="131" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="两只老虎.png" x="130" y="2" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="五指歌.png" x="128" y="258" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="卖报歌.png" x="128" y="385" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="外婆桥.png" x="254" y="129" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="大风车.png" x="256" y="2" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="小乌龟.png" x="254" y="256" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="小兔子乖乖.png" x="254" y="383" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="小星星.png" x="2" y="2" w="126" h="127" pX="0.5" pY="0.5" oX="13" oY="14" oW="150" oH="150"/>
+    <sprite n="小毛驴.png" x="380" y="129" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="小白兔白又白.png" x="382" y="2" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="小红帽.png" x="380" y="256" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="小老鼠上灯台.png" x="380" y="383" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="小鸭子.png" x="506" y="129" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="幸福拍手歌.png" x="508" y="2" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="我是一只小茶壶.png" x="506" y="256" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="我是小海军.png" x="506" y="383" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="我爱我的幼儿园.png" x="632" y="129" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="我的好妈妈.png" x="634" y="2" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="打电话.png" x="632" y="256" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="找朋友.png" x="632" y="383" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="拉大锯 扯大锯.png" x="758" y="129" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="捉泥鳅.png" x="760" y="2" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="摇篮曲.png" x="758" y="256" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="数数歌.png" x="1138" y="129" w="123" h="123" pX="0.5" pY="0.5" oX="13" oY="17" oW="150" oH="150"/>
+    <sprite n="数鸭子.png" x="758" y="383" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="新年好.png" x="884" y="129" w="125" h="124" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150" r="y"/>
+    <sprite n="洋娃娃和小熊跳舞.png" x="886" y="2" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="王老先生有块地.png" x="1011" y="129" w="125" h="124" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150" r="y"/>
+    <sprite n="粉刷匠.png" x="1012" y="2" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="英文字母歌.png" x="884" y="255" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="蓝精灵.png" x="884" y="382" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="蜗牛与黄鹂鸟.png" x="1010" y="255" w="125" h="124" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150" r="y"/>
+    <sprite n="蜜蜂做工.png" x="1137" y="255" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+    <sprite n="读书郎.png" x="1010" y="381" w="125" h="124" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150" r="y"/>
+    <sprite n="采蘑菇的小姑娘.png" x="1137" y="382" w="124" h="125" pX="0.5" pY="0.5" oX="13" oY="15" oW="150" oH="150"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9b85045dc8e359004b070e30a4653c19:dbe8135cd64d4bf88415e0389fca9851:770d02952152195d9894668a93825ace$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="number.png" width="680" height="256">
+    <sprite n="0.png" x="2" y="2" w="130" h="143" pX="0.5" pY="0.5" oX="49" oY="11" oW="227" oH="165"/>
+    <sprite n="1.png" x="536" y="147" w="142" h="84" pX="0.5" pY="0.5" oX="70" oY="14" oW="227" oH="165" r="y"/>
+    <sprite n="2.png" x="261" y="2" w="142" h="113" pX="0.5" pY="0.5" oX="62" oY="14" oW="227" oH="165" r="y"/>
+    <sprite n="3.png" x="548" y="2" w="104" h="143" pX="0.5" pY="0.5" oX="65" oY="14" oW="227" oH="165"/>
+    <sprite n="4.png" x="134" y="2" w="125" h="141" pX="0.5" pY="0.5" oX="56" oY="16" oW="227" oH="165"/>
+    <sprite n="5.png" x="429" y="110" w="105" h="140" pX="0.5" pY="0.5" oX="67" oY="17" oW="227" oH="165"/>
+    <sprite n="6.png" x="147" y="145" w="140" h="107" pX="0.5" pY="0.5" oX="64" oY="16" oW="227" oH="165" r="y"/>
+    <sprite n="7.png" x="289" y="117" w="138" h="115" pX="0.5" pY="0.5" oX="61" oY="17" oW="227" oH="165" r="y"/>
+    <sprite n="8.png" x="2" y="147" w="143" h="107" pX="0.5" pY="0.5" oX="65" oY="14" oW="227" oH="165" r="y"/>
+    <sprite n="9.png" x="405" y="2" w="141" h="106" pX="0.5" pY="0.5" oX="65" oY="15" oW="227" oH="165" r="y"/>
+</TextureAtlas>
